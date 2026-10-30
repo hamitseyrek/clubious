@@ -1,3 +1,10 @@
+# Visual Studio Code / IntelliJ / Android Studio
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
 # Miscellaneous
 *.class
 *.lock
